@@ -1,1 +1,2 @@
 Branch A related file
+updated the file
